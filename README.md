@@ -11,7 +11,7 @@ I am a fullstack developer focused on flutter, laravel
 <br>👜 My Company & Portfolio https://yoursoft.tech
 
 
-<img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif'>
+<img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://hrsoftbd.com/assets/servicePhoto/_20210904121634.gif'>
 <br>🏛️ EDUCATION</h3>
 - Bachelor Degree of IT-Information Technology -At Al-Hikma University - 2023-2024
 - Advanced Diploma of English Language with TOEFL iBT test - on Ets - 2018-2019
@@ -22,7 +22,6 @@ I am a fullstack developer focused on flutter, laravel
 - Flutter Fullstack - Yoursoft Company - 2024 till now
 - Flutter Freelancers 13 front-end 2 fullstack - 2023 till now
 - A Graphic Designer - Freelancers - 2019-till-now
-<img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif'>
 - An English Language Instructor - At National British Institute - 2019-2023
 - An English Language Instructor - At Essence Institute - 2017-2020
 - A Computer Instructor - At Essence Institute - 2017-2022
