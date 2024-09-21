@@ -10,12 +10,8 @@ I am a fullstack developer focused on flutter, laravel
 <br>🔥 I'm currently contributing to Github Projects and learning every day!
 <br>👜 My Company & Portfolio https://yoursoft.tech
 
-<div style="display:flex; flex-wrap: wrap; justify-content:center;">
-    <h3> 💻 EDUCATION</h3>
-    <br><h3> 💻 EDUCATION</h3>
-    
-
-</div>
+<br><h3><i class="bi bi-buildings-fill"></i>  EDUCATION</h3>
+<br><h3><i class="bi bi-buildings-fill" style="color: yellow;"></i>  EDUCATION</h3>
 # 💻 Job Experience
 # 💻 EDUCATION
 # 💻 Skills
