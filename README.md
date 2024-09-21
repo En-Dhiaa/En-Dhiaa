@@ -1,7 +1,7 @@
 #    Hi there 👋,
 # 🙂 I'm Dhiaa Al-Hmiri 
 
-<img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif'>
+<img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif'>
 I am a fullstack developer focused on flutter, laravel
 <br>⚛️ Currently working on building my own company -> Yoursoft.
 <br>🧱 some relational experts (Graphic ,Networking ,Computer maintenance , UI UX designer), 
@@ -10,13 +10,13 @@ I am a fullstack developer focused on flutter, laravel
 <br>🔥 I'm currently contributing to Github Projects and learning every day!
 <br>👜 My Company & Portfolio https://yoursoft.tech
 
-<br>🏛️ EDUCATION</h3> <img alt='gift' width='200' align='right' style="border-radius: 10px" src='https://media.tenor.com/FFYK61T1WgUAAAAC/loading-aesthetic.gif'>
+<br>🏛️ EDUCATION</h3> 
 - Bachelor Degree of IT-Information Technology -At Al-Hikma University - 2023-2024
 - Advanced Diploma of English Language with TOEFL iBT test - on Ets - 2018-2019
-- Sphere Project - UNICEF - Taiz - 2017
+- Sphere Project - UNICEF - Taiz - 2017<img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif'>
 - Graphic Diploma - At National British Institute - 2017
 
-<br>💼 Job Experience</h3> <img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif'>
+<br>💼 Job Experience</h3> 
 - Flutter Fullstack - Yoursoft Company - 2024 till now
 - Flutter Freelancers 13 front-end 2 fullstack - 2023 till now
 - A Graphic Designer - Freelancers - 2019-till-now
