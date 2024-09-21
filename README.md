@@ -1,33 +1,6 @@
 #    Hi there 👋,
 # 🙂 I'm Dhiaa Al-Hmiri 
-<div style="display:flex; flex-wrap: wrap; justify-content:center;">
- <ul>
-       <li class="social-item">
-            <a href="https://www.facebook.com/Dhiaa.AlHmiri?mibextid=ZbWKwL" class="social-link">
-              <ion-icon name="logo-facebook"></ion-icon>
-            </a>
-          </li>
-          <li class="social-item">
-            <a href="https://wa.me/message/ZNWMGGMCVILTN1" class="social-link">
-              <ion-icon name="logo-whatsapp"></ion-icon>
-            </a>
-          </li>
-          <li class="social-item">
-            <a href="https://t.me/Eng_Dhiaa_AlHmiri" class="social-link">
-              <ion-icon name="logo-edge"></ion-icon>
-            </a>
-          </li>
-          <li class="social-item">
-            <a href="https://github.com/En-Dhiaa" class="social-link">
-              <ion-icon name="logo-octocat"></ion-icon>
-            </a>
-          </li>
-          <li class="social-item">
-            <a href="https://yoursoft.tech" class="social-link">
-              <ion-icon name="logo-chrome"></ion-icon>
-            </a>
-          </li>
-        </ul></div>
+<a href="https://www.facebook.com/Dhiaa.AlHmiri?mibextid=ZbWKwL" class="social-link"><ion-icon name="logo-facebook"></ion-icon></a>
 <img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif'>
 I am a fullstack developer focused on flutter, laravel
 <br>⚛️ Currently working on building my own company -> Yoursoft.
