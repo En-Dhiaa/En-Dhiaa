@@ -11,7 +11,6 @@ I am a fullstack developer focused on flutter, laravel
 <br>👜 My Company & Portfolio https://yoursoft.tech
 
 <br>🏛️ EDUCATION</h3>
-<hr style="height:2px;border-width:0;color:gray;background-color:yellow">
 - Bachelor Degree of IT-Information Technology -At Al-Hikma University - 2023-2024
 - Advanced Diploma of English Language with TOEFL iBT test - on Ets - 2018-2019
 - Sphere Project - UNICEF - Taiz - 2017
