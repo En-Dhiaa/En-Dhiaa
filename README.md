@@ -13,7 +13,7 @@ I am a fullstack developer focused on flutter, laravel
 <br>🏛️ EDUCATION</h3> 
 - Bachelor Degree of IT-Information Technology -At Al-Hikma University - 2023-2024
 - Advanced Diploma of English Language with TOEFL iBT test - on Ets - 2018-2019
-- Sphere Project - UNICEF - Taiz - 2017<img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif'>
+- Sphere Project - UNICEF - Taiz - 2017
 - Graphic Diploma - At National British Institute - 2017
 
 <br>💼 Job Experience</h3> 
@@ -24,7 +24,7 @@ I am a fullstack developer focused on flutter, laravel
 - An English Language Instructor - At Essence Institute - 2017-2020
 - A Computer Instructor - At Essence Institute - 2017-2022
 
-<br>🥇 Certificates & Awards</h3>
+<br>🥇 Certificates & Awards</h3> <img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif'>
 - Marketing - Google - Jan 27-2024
 - Networking Basics - Cisco - Jan 30-2024
 - cebersecurity - Cisco - Jan 2-2024
