@@ -10,6 +10,8 @@ I am a fullstack developer focused on flutter, laravel
 <br>🔥 I'm currently contributing to Github Projects and learning every day!
 <br>👜 My Company & Portfolio https://yoursoft.tech
 
+
+<img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif'>
 <br>🏛️ EDUCATION</h3>
 - Bachelor Degree of IT-Information Technology -At Al-Hikma University - 2023-2024
 - Advanced Diploma of English Language with TOEFL iBT test - on Ets - 2018-2019
@@ -20,12 +22,13 @@ I am a fullstack developer focused on flutter, laravel
 - Flutter Fullstack - Yoursoft Company - 2024 till now
 - Flutter Freelancers 13 front-end 2 fullstack - 2023 till now
 - A Graphic Designer - Freelancers - 2019-till-now
+<img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif'>
 - An English Language Instructor - At National British Institute - 2019-2023
 - An English Language Instructor - At Essence Institute - 2017-2020
 - A Computer Instructor - At Essence Institute - 2017-2022
   
 <br>💼 Skills</h3>
-
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="csharp" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img 
 <br>💼 Certificates & Awards</h3>
 <br>💼 Job Experience</h3>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-Zcy6qGvRvg29va6g226V77V677791979500618975674702df2690756897677072" crossorigin="anonymous" referrerpolicy="no-referrer" />
