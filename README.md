@@ -15,15 +15,13 @@ I am a fullstack developer focused on flutter, laravel
 - Advanced Diploma of English Language with TOEFL iBT test - on Ets - 2018-2019
 - Sphere Project - UNICEF - Taiz - 2017
 - Graphic Diploma - At National British Institute - 2017
-
-<br>💼 Job Experience</h3>
+<br>💼 Job Experience</h3> <img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif'>
 - Flutter Fullstack - Yoursoft Company - 2024 till now
 - Flutter Freelancers 13 front-end 2 fullstack - 2023 till now
 - A Graphic Designer - Freelancers - 2019-till-now
 - An English Language Instructor - At National British Institute - 2019-2023
 - An English Language Instructor - At Essence Institute - 2017-2020
 - A Computer Instructor - At Essence Institute - 2017-2022
-  
 <br>🥇 Certificates & Awards</h3>
 - Marketing - Google - Jan 27-2024
 - Networking Basics - Cisco - Jan 30-2024
