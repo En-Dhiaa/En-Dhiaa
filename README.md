@@ -9,27 +9,13 @@ I am a fullstack developer focused on flutter, laravel
 <br>⭐ I love doing 3D stuff for web pages
 <br>🔥 I'm currently contributing to Github Projects and learning every day!
 <br>👜 My Company & Portfolio https://yoursoft.tech
-<br><h3> 💻 EDUCATION</h3>
+
 <div style="display:flex; flex-wrap: wrap; justify-content:center;">
-  <div>
     <h3> 💻 EDUCATION</h3>
-    <br>  also firebase authentication and hosting
-    <br>⭐ I love doing 3D stuff for web pages
-  </div>
-  
-  <h3> 💻 EDUCATION</h3>
-  <br>  also firebase authentication and hosting
-   <br>⭐ I love doing 3D stuff for web pages
-  <div>
+    <br><h3> 💻 EDUCATION</h3>
     
-  </div>
-  
+
 </div>
-* book
-+ book
-. book
-
-
 # 💻 Job Experience
 # 💻 EDUCATION
 # 💻 Skills
