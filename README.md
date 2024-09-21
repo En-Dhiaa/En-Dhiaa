@@ -43,5 +43,10 @@ I am a fullstack developer focused on flutter, laravel
   <img src="https://github-readme-stats-nine-blond-35.vercel.app/api?username=DiegoCascavita&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" style="width: 55%; margin-right: 15px;">
   <img src="https://github-readme-stats-nine-blond-35.vercel.app/api/top-langs/?username=DiegoCascavita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 42%; margin-left: 15px;">
 </div>
+
 # 📞 Contact Me
-<p align="left">  <a href="https://wa.me/message/ZNWMGGMCVILTN1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WHATSAPP" width="40" height="40"/> </a> <a href="https://www.facebook.com/Dhiaa.AlHmiri?mibextid=ZbWKwL" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="FACEBOOK" width="40" height="40"/> </a> <a href="https://t.me/Eng_Dhiaa_AlHmiri" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="redux" width="40" height="40"/> </a>  </p>
+<div style="display:flex; flex-wrap: wrap; justify-content:center;"> 
+  <a href="https://wa.me/message/ZNWMGGMCVILTN1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WHATSAPP" width="40" height="40"/> </a> 
+  <a href="https://www.facebook.com/Dhiaa.AlHmiri?mibextid=ZbWKwL" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="FACEBOOK" width="40" height="40"/> </a> 
+  <a href="https://t.me/Eng_Dhiaa_AlHmiri" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" width="40" height="40"/> </a> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="redux" width="40" height="40"/> </a>  </div>
