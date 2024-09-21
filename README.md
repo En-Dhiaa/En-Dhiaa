@@ -11,7 +11,7 @@ I am a fullstack developer focused on flutter, laravel
 <br>👜 My Company & Portfolio https://yoursoft.tech
 
 
-<img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://hrsoftbd.com/assets/servicePhoto/_20210904121634.gif'>
+<img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://hrsoftbd.com/assets/servicePhoto/_20210904121634.gif'><br>
 <br>🏛️ EDUCATION</h3>
 - Bachelor Degree of IT-Information Technology -At Al-Hikma University - 2023-2024
 - Advanced Diploma of English Language with TOEFL iBT test - on Ets - 2018-2019
