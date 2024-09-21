@@ -1,7 +1,8 @@
 #    Hi there 👋,
 # 🙂 I'm Dhiaa Al-Hmiri 
- <ul style="display:flex; flex-wrap: wrap; justify-content:center;" >
-          <li class="social-item">
+<div style="display:flex; flex-wrap: wrap; justify-content:center;">
+ <ul>
+       <li class="social-item">
             <a href="https://www.facebook.com/Dhiaa.AlHmiri?mibextid=ZbWKwL" class="social-link">
               <ion-icon name="logo-facebook"></ion-icon>
             </a>
@@ -26,7 +27,7 @@
               <ion-icon name="logo-chrome"></ion-icon>
             </a>
           </li>
-        </ul>
+        </ul></div>
 <img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif'>
 I am a fullstack developer focused on flutter, laravel
 <br>⚛️ Currently working on building my own company -> Yoursoft.
